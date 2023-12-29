@@ -1,0 +1,7 @@
+P(non defective) = .99
+P(defective) = .01
+p(too large) = .01/2 = .005
+p(too short) = .01/2 = -005
+
+a) too large = .005
+b) more than 1990 = .99 + .005 = .995
