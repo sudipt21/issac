@@ -1,0 +1,4 @@
+pip install graphviz is not working, use below:
+conda install python-graphviz
+
+pip intall notebook - upgrade to notebook7 (not necessary/part of fix, just an upgrade)
